@@ -1,0 +1,1 @@
+export default function Studio() { return (<div>Studio Page</div>); }

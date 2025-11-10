@@ -1,0 +1,1 @@
+export default function TalkingAvatar() { return (<div>Talking Avatar</div>); }
